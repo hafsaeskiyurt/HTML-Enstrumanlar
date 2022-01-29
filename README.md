@@ -7,7 +7,7 @@ Ayrıca hakkımızda ve anasayfa adlı sayfalar da mevcut.
 
 ### Görseller
 
-![Anasayfa](image/anasayfa.png)
+![](image/anasayfa.png)
 ![](image/hakkimizda.png)
 ![](image/urunler.png)
 
