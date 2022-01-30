@@ -6,7 +6,7 @@ Ayrıca hakkımızda ve anasayfa adlı sayfalar da mevcut.
 Öğrendiğim css özelliklerini bu projemde uyguladım. Daha çok öğrendikçe eklemeler de yapacağım.
 
 ### Görseller
-<img src="image/hakkimizda.png">
+
 ![](image/anasayfa.png)
 ![](image/hakkimizda.png)
 ![](image/urunler.png)
